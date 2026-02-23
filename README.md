@@ -4,15 +4,17 @@ Built from 8+ years of running cost transformation programs across Amazon's glob
 
 ________________________________________
 📊 Results These Frameworks Delivered
-Metric	Result
-Total Annualized Savings	$130M+ attributed
-Single-Cycle Record	$49.4M — largest in TSE history
-Initiatives Executed	45+ across 2 years
-Queue Reduction	1,170 queues eliminated (92% reduction)
-Error Recurrence Rate	28% → 3%
-First Contact Resolution	44% → 60%
-Case Handling Time	6.5 → 4.5 minutes ($5M saved)
-Workforce Scaled	1,000 → 2,500 agents
+
+| Metric | Result |
+|---|---|
+| Total Annualized Savings | **$130M+** attributed |
+| Single-Cycle Record | **$49.4M** — largest in TSE history |
+| Initiatives Executed | **45+** across 2 years |
+| Queue Reduction | 1,170 eliminated — **92% reduction** |
+| Error Recurrence Rate | **28% down to 3%** |
+| First Contact Resolution | **44% up to 60%** |
+| Case Handling Time | **6.5 down to 4.5 minutes** |
+| Workforce Scaled | **1,000 up to 2,500** agents |
 
 ________________________________________
 🧭 The Core Problem This Solves
@@ -136,15 +138,14 @@ ________________________________________
 How to build a measurement system that leadership trusts and operations teams use daily.
 
 The 4 metrics that matter in ops cost transformation:
-
-Metric	What it measures	Target direction
-Average Handle Time	Efficiency per case	Decrease
-Error Recurrence Rate	Quality of fixes	Decrease
-First Contact Resolution	Effectiveness	Increase
-Cost per Case	Overall efficiency	Decrease
+| Metric | Result |
+|---|---|
+| Average Handle Time | 6.5 → **4.5 minutes** |
+| Error Recurrence Rate | 28% → **3%** |
+| First Contact Resolution | 44% → **60%** |
+| Cost per Case | 30% YoY improvement |
 
 Dashboard design principles:
-
 
 •	Daily visibility for ops leads, weekly for directors, monthly for VP
 •	Trend lines matter more than point-in-time snapshots
